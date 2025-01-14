@@ -11,10 +11,14 @@
             "id": "4024f56d9cfff4b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/0.1 — Introduction to these tutorials.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0.1 — Introduction to these tutorials"
             }
           }
         ]
@@ -158,11 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3b3ccb5e3661e95",
+  "active": "4024f56d9cfff4b5",
   "lastOpenFiles": [
+    "README.md",
     "Notes/0.2 — Additional Notes.md",
     "LEIA-ME.md",
-    "README.md",
     "Notes/0.1 — Introduction to these tutorials.md",
     "Notes",
     "0.1 — Introduction to these tutorials.md"
